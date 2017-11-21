@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Years</title>
+    <link>http://www.helmetfest.com/HelmetFest/1990-1999/1990-1999.html</link>
+    <description>Jon Irwin
+Brian Gibson
+Brad Shaver
+Craig Irwin
+Mike Hamrick
+Kevin Shaver</description>
+    <item>
+      <title>1995</title>
+      <link>http://www.helmetfest.com/HelmetFest/1990-1999/Pages/1995.html</link>
+      <guid isPermaLink="false">e3b45446-47c3-42c6-b39d-9c3bfa9b87c1</guid>
+    </item>
+    <item>
+      <title>1996</title>
+      <link>http://www.helmetfest.com/HelmetFest/1990-1999/Pages/1996.html</link>
+      <guid isPermaLink="false">dd15b7ef-d471-4e5f-b5f0-36ba4c6f7f50</guid>
+    </item>
+    <item>
+      <title>1997</title>
+      <link>http://www.helmetfest.com/HelmetFest/1990-1999/Pages/1997.html</link>
+      <guid isPermaLink="false">f56f6e3d-6ac6-4776-b69d-415624b5283d</guid>
+    </item>
+    <item>
+      <title>1998</title>
+      <link>http://www.helmetfest.com/HelmetFest/1990-1999/Pages/1998.html</link>
+      <guid isPermaLink="false">c8ede301-44b0-4d6b-8020-93615849223e</guid>
+    </item>
+    <item>
+      <title>1999</title>
+      <link>http://www.helmetfest.com/HelmetFest/1990-1999/Pages/1999.html</link>
+      <guid isPermaLink="false">123525fd-ab24-425a-984d-ea4e13f85464</guid>
+    </item>
+  </channel>
+</rss>

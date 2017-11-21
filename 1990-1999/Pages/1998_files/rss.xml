@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>1998</title>
+    <link>http://www.helmetfest.com/HelmetFest/1990-1999/Pages/1998.html</link>
+    <description>House
+Sand's Palace
+Helmets
+Gibson, Brian&#13;Hamrick, Mike&#13;Irwin, Craig&#13;Irwin, Jon&#13;Nitsche, Greg&#13;O'Connor, Sean&#13;Pratt, Nick&#13;Shaver, Brad&#13;Stocks, Jon</description>
+    <item>
+      <link>http://www.helmetfest.com/HelmetFest/1990-1999/Pages/1998.html#0</link>
+      <guid isPermaLink="false">49a7423e-1910-4612-a58c-4502e913ec81</guid>
+      <enclosure url="http://www.helmetfest.com/HelmetFest/1990-1999/Pages/1998_files/Media/House.1998/House.1998.jpg" length="47301" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.helmetfest.com/HelmetFest/1990-1999/Pages/1998_files/Media/House.1998/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.helmetfest.com/HelmetFest/1990-1999/Pages/1998_files/Media/House.1998/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.helmetfest.com/HelmetFest/1990-1999/Pages/1998_files/Media/House.1998/mip.jpg</iweb:mip-thumbnail>
+    </item>
+    <item>
+      <link>http://www.helmetfest.com/HelmetFest/1990-1999/Pages/1998.html#1</link>
+      <guid isPermaLink="false">885fc570-51a7-4306-8ed8-19aafe89c522</guid>
+      <enclosure url="http://www.helmetfest.com/HelmetFest/1990-1999/Pages/1998_files/Media/HF.1998.01/HF.1998.01.jpg" length="54826" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.helmetfest.com/HelmetFest/1990-1999/Pages/1998_files/Media/HF.1998.01/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.helmetfest.com/HelmetFest/1990-1999/Pages/1998_files/Media/HF.1998.01/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.helmetfest.com/HelmetFest/1990-1999/Pages/1998_files/Media/HF.1998.01/mip.jpg</iweb:mip-thumbnail>
+    </item>
+  </channel>
+</rss>
